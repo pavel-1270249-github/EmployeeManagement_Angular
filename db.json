@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstname": "Pavel",
+      "lastname": "Islam",
+      "birthdate": "1993-04-03",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Soft Tech Ltd",
+      "jobExperience": 2,
+      "salary": 20000,
+      "profile": "Employees.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Renesa",
+      "lastname": "Yousuf",
+      "birthdate": "2021-03-01",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Shahid Model School And College",
+      "jobExperience": 3,
+      "salary": 25000,
+      "profile": "Employees4.jpg",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
